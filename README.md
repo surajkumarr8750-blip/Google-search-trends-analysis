@@ -20,7 +20,7 @@ Find out when and where interest in a topic peaks, and which related searches go
 
 ## Key Findings
 - Search interest peaked in the week of 22 March 2026 (score 100).
-- Saint Helena, Ethiopia, and Nepal had the highest regional scores. India ranked 5th.
+- St. Helena had the highest regional interest (100), followed by Ethiopia (~93) and Nepal (~92). India ranked 4th (~67), ahead of Cameroon, Sri Lanka, and Nigeria.
 - Interest is strong across South Asia and Africa.
 - Google Trends shows relative interest (0 to 100), not search volume, so small regions can rank high.
 
